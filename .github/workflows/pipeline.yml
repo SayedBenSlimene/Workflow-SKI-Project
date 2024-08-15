@@ -1,4 +1,4 @@
-name: CI Pipeline workflow
+name: CI Pipeline test2
 on: [push]
 jobs: build:
     runs-on: ubuntu-latest
