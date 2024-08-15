@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/familleActe")
 @RestController
 public class FamilleActeController {
-//merge conffffffflits
+//fix bugs
      @Autowired
      IFamilleActeService iFamilleActeService;
 
