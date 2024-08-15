@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/familleActe")
 @RestController
 public class FamilleActeController {
-//build declanchedddddddd
+//merge conflits
      @Autowired
      IFamilleActeService iFamilleActeService;
 
