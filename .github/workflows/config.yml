@@ -1,4 +1,4 @@
-name: Build & Deploy Spring App
+name: Build & Deploy Spring appvvvv
 
 on:
   push:
